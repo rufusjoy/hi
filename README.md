@@ -16,7 +16,7 @@
 
 <ol>
 <font color="purple"><ul> My Favourite  Colour: purple</ul>
-</font color="Red">
+<font color="Red"><ul>I also like red</ul>
 </ol>
 
 <h2>My School</h2>
