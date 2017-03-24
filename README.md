@@ -26,7 +26,7 @@
 <br>
 <img src="skull.gif" width="250" height="300">
 <img src="maxresdefault.jpg" width="400" height="290">
-<img src="lego-logo (1).svg" width="400" height="280">
+<img src="lego-logo1.svg" width="400" height="280">
 <img src="scales.gif" width="400" height="280">
 <img src="red-brick--201606--gl--footer.png" width="400" height="280">
 <img src="unnamed.png" width="400" height="280">
