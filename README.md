@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/rufusjoy/hi/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<html>
+<head>
+  <title>Hi</title>
+</head>
+<body bgcolor="yellow" text="purple
+ <font face="arial" size="5">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  <h1>All about me</h1>
 
-### Markdown
+ <h2><p></p></h2>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  <font color="purple"><p>My name is Rufus, I am 12 years old and live in England.  I have blonde hair and blue eyes.</p>
 
-```markdown
-Syntax highlighted code block
+  <font color="red"><h2>my favorate things</h2>
 
-# Header 1
-## Header 2
-### Header 3
+<ol>
+<font color="purple"><ul> My Favourite  Colour: purple</ul>
+</font color="Red">
+</ol>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rufusjoy/hi/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h2>My School</h2>
+<font color="purple"><p>I am in year 7 at School.  At the moment in ICT, I am working on HTML.
+<font color="red"><h2><b>Clubs</b></h2>
+<font color="purple"><p>I do lots of clubs including ICT, RC, lego robotics and out of school piano, steel pans and BRLSI<a href="https://www.brlsi.org/">Click here to go to the BRLSI Website</a>
+<br>
+<img src="skull.gif" width="250" height="300">
+<img src="maxresdefault.jpg" width="400" height="290">
+<img src="lego-logo (1).svg" width="400" height="280">
+<img src="scales.gif" width="400" height="280">
+<img src="red-brick--201606--gl--footer.png" width="400" height="280">
+<img src="unnamed.png" width="400" height="280">
+<p>
+</body>
+</html>    
