@@ -14,10 +14,10 @@
 
   <font color="red"><h2>my favorate things</h2>
 
-<ol>
+
 <font color="purple"><ul> My Favourite  Colour: purple</ul>
-<font color="Red"><ul>I also like red</ul>
-</ol>
+<font color="yellow"><ul>I also like yellow</ul>
+
 
 <h2>My School</h2>
 <font color="purple"><p>I am in year 7 at School.  At the moment in ICT, I am working on HTML.
